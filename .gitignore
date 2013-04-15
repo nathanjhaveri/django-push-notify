@@ -1,0 +1,8 @@
+venv
+*.pyc
+*.swp
+*.suo
+*.patch
+.DS_Store
+build/
+
